@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrahman+Tarek!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Egypt</h3>
+<h3 align="center">A Passionate Software Engineer From Egypt</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m **Software engineer | Competitive Programmer | Coding Instructor**
+ 🔭 I’m **Back-End Developer | Competitive Programmer | Coding Instructor**
  
  🌱 I’m currently learning **Cloud,Docker,AWS**
 
