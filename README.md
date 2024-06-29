@@ -11,7 +11,7 @@
  
  🔭 I’m **Software engineer | Competitive Programmer | Coding Instructor**
  
- 🌱 I’m currently learning **Docker,AWS**
+ 🌱 I’m currently learning **Cloud,Docker,AWS**
 
 ⚡ Fun fact **We are the walking deads**
 
