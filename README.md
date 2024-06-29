@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **as back-end developer and coding instructor**
+ 🔭 I’m **Software engineer | Competitive Programmer | Coding Instructor**
  
  🌱 I’m currently learning **Docker,AWS**
 
