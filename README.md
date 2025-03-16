@@ -10,10 +10,6 @@
 <div align="center">
  
  🔭 I’m **Back-End Developer | Competitive Programmer | Coding Instructor**
- 
- 🌱 I’m currently learning **Cloud,Docker,AWS**
-
-⚡ Fun fact **We are the walking deads**
 
  </div>
  
