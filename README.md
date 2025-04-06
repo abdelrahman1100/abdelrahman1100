@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m **Back-End Developer | Competitive Programmer | Coding Instructor**
+ 🔭 I’m **Software Engineer | Competitive Programmer | Coding Instructor**
 
  </div>
  
